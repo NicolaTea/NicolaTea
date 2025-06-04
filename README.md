@@ -2,13 +2,17 @@
 
 🔭 I’m currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca, Romania.
 
-👩‍💻 I’m teaching myself Game Development and I’m passionate about everything related to programming. I love building interactive experiences and exploring new technologies.
+💻 I'm passionate about **Web Development**, **Data Science**, and **Game Development**. I love building interactive experiences, solving real-world problems through data, and experimenting with cutting-edge technologies.
+
+🌐 I'm currently learning and improving my skills in full-stack web development using modern frameworks and tools.
+
+📊 I'm exploring the world of data science, focusing on data analysis, machine learning, and visualization.
+
+🎮 I’m also teaching myself Game Development, mainly using Unity & C#, while experimenting with Unreal Engine.
 
 👯 I'm open to collaborating on different types of projects.
 
-🌱 I'm currently learning Unity & C#, experimenting with Unreal Engine.
-
-🚀 My goal is to become a versatile developer, specializing in both game development and software engineering, creating innovative and engaging digital experiences.
+🚀 My goal is to become a versatile developer capable of creating innovative and impactful digital solutions across multiple domains.
 
 📫 How to reach me **teanicola2004@gmail.com**
 
@@ -38,4 +42,16 @@
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
     </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    </a>
 </p>
