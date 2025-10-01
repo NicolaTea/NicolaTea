@@ -2,13 +2,9 @@
 
 🔭 I’m currently studying Computer Science at Babeș-Bolyai University in Cluj-Napoca, Romania.
 
-💻 I'm passionate about **Web Development**, **Data Science**, and **Game Development**. I love building interactive experiences, solving real-world problems through data, and experimenting with cutting-edge technologies.
+💻 I'm passionate about **Web Development**, and **Game Development**. I love building interactive experiences  and experimenting with cutting-edge technologies.
 
 🌐 I'm currently learning and improving my skills in full-stack web development using modern frameworks and tools.
-
-📊 I'm exploring the world of data science, focusing on data analysis, machine learning, and visualization.
-
-🎮 I’m also teaching myself Game Development, mainly using Unity & C#, while experimenting with Unreal Engine.
 
 👯 I'm open to collaborating on different types of projects.
 
